@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "senthil prabhu",
+  "author": "mr.senthil coder",
   "license": "PTAC",
   "devDependencies": {
     "eslint": "^5.16.0",
